@@ -1,0 +1,6 @@
+<b>[August 16, 2017 3:50 pm]</b> Status changed from pending to confirmed by mohitapte for appointment ID:1
+<b>[August 16, 2017 3:58 pm]</b> Status of Appointment(s) with id(s):1 changed to removed by user:mohitapte
+<b>[August 16, 2017 4:01 pm]</b> Status of Appointment(s) with id(s):2 changed to removed by user:mohitapte
+<b>[August 16, 2017 4:02 pm]</b> Appointment(s) with id(s):2, 1 deleted by user:mohitapte
+<b>[August 16, 2017 4:36 pm]</b> Status of Appointment(s) with id(s):3 changed to removed by user:mohitapte
+
